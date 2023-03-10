@@ -1,3 +1,7 @@
+# 笔记
+@2023年3月10日16:01:46
+探索低精度float训练时看到的，一个QNN代码和他的论文。
+
 # Training Quantized Neural Networks
 
 ## Introduction
